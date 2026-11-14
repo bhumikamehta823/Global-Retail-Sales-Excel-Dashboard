@@ -1,7 +1,8 @@
 # Global Retail Sales Dashboard (Excel)
 
-This interactive Microsoft Excel dashboard is analyzing global retail performance, customer demographics, shipping trends, and product category sales.
+An interactive Microsoft Excel dashboard analyzing global retail performance, customer demographics, shipping trends, and product category sales.
 
+![Global Retail Sales Dashboard](assets/dashboard_preview.png)
 
 ## Project Overview
 This project transforms raw retail transaction data into an interactive visual report using Excel Pivot Tables, Pivot Charts, and Slicers. It allows stakeholders to filter sales metrics dynamically by shipping status, year, and day of the week.
@@ -28,5 +29,3 @@ This project transforms raw retail transaction data into an interactive visual r
 ## Tools Used
 * **Microsoft Excel:** Data cleaning, Pivot Tables, Pivot Charts, KPI cards, and interactive Slicers.
 
-##Author
-* Bhumika Mehta 
