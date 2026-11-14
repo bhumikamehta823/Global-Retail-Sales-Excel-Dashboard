@@ -1,6 +1,6 @@
 # Global Retail Sales Dashboard (Excel)
 
-This interactive Microsoft Excel dashboard analyzing global retail performance, customer demographics, shipping trends, and product category sales.
+This interactive Microsoft Excel dashboard is analyzing global retail performance, customer demographics, shipping trends, and product category sales.
 
 
 ## Project Overview
