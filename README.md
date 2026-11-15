@@ -7,6 +7,10 @@ An interactive Microsoft Excel dashboard analyzing global retail performance, cu
 ## Project Overview
 This project transforms raw retail transaction data into an interactive visual report using Excel Pivot Tables, Pivot Charts, and Slicers. It allows stakeholders to filter sales metrics dynamically by shipping status, year, and day of the week.
 
+## Dashboard Preview
+
+![Global Retail Sales Dashboard](Global%20Retail%20Sales%20Dashboard%20%282%29.JPG)
+
 ## Key Metrics Tracked (KPIs)
 * **Total Sales:** Overall revenue generated ($48,382.00 under current slicer selection).
 * **Total Quantity Sold:** Total units purchased (474 units under current selection).
